@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# J'ai choisi le pré-processeur Sass
+
+Pour cet exercice j'ai choisi le pré-processeur Sass pour le css, car je le trouve beaucoup plus simle d'utilistaion et très intuitif.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

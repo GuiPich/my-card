@@ -1,0 +1,16 @@
+$principalFont: "Roboto";
+$primaryFontColor : #38383d;
+$secondaryFontColor : #888885;
+$bgColor: #f5f5f5;
+$borderColor : #f0ecec;
+$shadowBox: 10px 10px 5px -10px rgba(0, 0, 0, 0.75);
+$imgShadow: inset 0px 10px 15px -3px rgba(0, 0, 0, 0.1), 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+
+@import './Components/Card.scss';
+
+.app {
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+
+}

@@ -1,0 +1,10 @@
+.imgOfCard {
+    width: 50%;
+    padding: 2%;
+
+    img {
+        width: 100%;
+        border-radius: 5px;
+        box-shadow: $imgShadow;
+    }
+}

@@ -1,0 +1,14 @@
+@import './ImgOfCard.scss';
+@import './TextOfCard.scss';
+
+.card {
+    width: 50%;
+    height: 25%;
+    background-color: $bgColor;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: $shadowBox;
+    border: $borderColor;
+
+}
